@@ -1,3 +1,3 @@
 # Bulls-and-cows
-Hyperskill project Bulls and Cowshttps://hyperskill.org/projects/53
+Hyperskill project Bulls and Cows
 https://hyperskill.org/projects/53
